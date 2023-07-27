@@ -1,0 +1,47 @@
+﻿
+@model PersonalInternoApp.MVC.Models.UsuarioView
+
+@{
+    ViewBag.Title = "Empleados";
+}
+
+@using (Html.BeginForm("Login", "Login", FormMethod.Post))
+{
+
+        <h1>Personal Interno App</h1>
+
+        <br />
+        <form>
+
+            <div>
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label">Usuario</label>
+                    <div class="col-sm-10">
+                        @Html.TextBoxFor(u => u.Nombre)
+                        @Html.ValidationMessageFor(c => c.Nombre, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label">Contraseña</label>
+                    <div class="col-sm-10">
+                        @Html.PasswordFor(u => u.Contraseña)
+                        @Html.ValidationMessageFor(c => c.Contraseña, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+                <div>
+                    <input type="submit" class="btn btn-success" value="Ingresar" />
+                </div>
+            </div>
+        </form>
+
+}
+
+
+
+
+
+
+
+

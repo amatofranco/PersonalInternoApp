@@ -1,0 +1,15 @@
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\obj\Debug\PersonalInternoApp.Database.csproj.CoreCompileInputs.cache
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\PersonalInternoApp.Database.dll.config
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\PersonalInternoApp.Database.dll
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\PersonalInternoApp.Database.pdb
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\EntityFramework.dll
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\PersonalInternoApp.dll
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\PersonalInternoApp.pdb
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\PersonalInternoApp.dll.config
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\EntityFramework.xml
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\obj\Debug\PersonalInternoApp.Database.csproj.AssemblyReference.cache
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\obj\Debug\PersonalInternoApp.Database.csproj.CopyComplete
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\obj\Debug\PersonalInternoApp.Database.dll
+C:\Users\franco.amato\Desktop\Proyecto\PersonalInternoApp\PersonalInternoApp.Database\obj\Debug\PersonalInternoApp.Database.pdb
